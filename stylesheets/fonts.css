@@ -1,0 +1,12 @@
+
+@font-face {
+font-family: "AtlasTypewriterBold";
+src: url("../fonts/Atlas_Typewriter_-_Bold.otf") format("opentype");
+font-weight: normal;
+}
+
+@font-face {
+font-family: "AtlasTypewriterRegular";
+src: url("../fonts/Atlas_Typewriter_-_Regular.otf") format("opentype");
+font-weight: normal;
+}
