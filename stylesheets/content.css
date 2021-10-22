@@ -28,7 +28,7 @@ body {
 .divider3 {
   position: relative;
   width: 1440px;
-  top: 2200px;
+  top: 2100px;
 }
 
 h1 {
@@ -54,31 +54,31 @@ h1 {
   color: #FFFFFF;
 }
 .h2 {
-  position: absolute;
-  height: 99px;
-  left: 75px;
-  top: 2109px;
-  font-weight: bold;
-  font-size: 72px;
-  line-height: 72px;
-  letter-spacing: 0.405em;
-  color: #FFFFFF;
+  position: relative;
+    height: 99px;
+    left: 75px;
+    top: 2000px;
+    font-weight: bold;
+    font-size: 72px;
+    line-height: 72px;
+    letter-spacing: 0.405em;
+    color: #FFFFFF;
 }
 .h3 {
-  position: absolute;
+  position: relative;
   width: 421px;
   height: 278px;
   left: 70px;
-  top: 2430px;
+  top: 1230px;
   font-size: 23px;
   line-height: 25px;
   letter-spacing: 0.02em;
   color: #FFFFFF;
 }
 .h4 {
-  position: absolute;
+  position: relative;
   left: 81px;
-  top: 3250px;
+  top: 1750px;
   font-weight: bold;
   font-size: 72px;
   line-height: 72px;
@@ -129,8 +129,8 @@ h1 {
 }
 .h10 {
   position: absolute;
-  left: 591px;
-  top: 3382px;
+  left: 599px;
+  top: 3340px;
   font-size: 24px;
   line-height: 24px;
   color: #FFFFFF;
@@ -140,18 +140,18 @@ h1 {
   width: 328px;
   height: 144px;
   left: 508px;
-  top: 3405px;
+  top: 3355px;
   font-size: 144px;
   line-height: 144px;
   letter-spacing: 0.995em;
   color: #FFFFFF;
 }
 .h12 {
-  position: absolute;
+  position: relative;
   width: 290px;
   height: 165px;
   left: 545px;
-  top: 2980px;
+  top: 180px;
   font-size: 30px;
   line-height: 30px;
   letter-spacing: 0.02em;
@@ -195,8 +195,8 @@ h1 {
   position: absolute;
   width: 1403.14px;
   height: 271.24px;
-  left: 41px;
-  top: 3769px;
+  left: 20px;
+  top: 3800px;
 }
 .divider8 {
   position: absolute;
@@ -206,11 +206,11 @@ h1 {
   top: 3565px;
 }
 .divider9 {
-  position: absolute;
+  position: relative;
   width: 610px;
   height: 1203px;
   left: 839px;
-  top: 825px;
+  top: -700px;
 }
 .divider10 {
   position: absolute;
@@ -219,9 +219,9 @@ h1 {
   top: 4381.46px;
 }
 .divider11 {
-  position: absolute;
+  position: relative;
   width: 158px;
   height: 11px;
   left: 591px;
-  top: 3460px;
+  top: 1827px;
 }
