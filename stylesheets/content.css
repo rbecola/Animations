@@ -1,0 +1,215 @@
+html{
+  background: #77B6DB;
+  width: 100%;
+}
+body {
+  font-family: "AtlasTypewriterRegular";
+  position: relative;
+  width: 1440px;
+  height: 6559px;
+  display: block;
+  margin: 0 auto;
+  background: #0067A5;
+}
+.divider1 {
+  position: absolute;
+  width: 1403.14px;
+  height: 271.24px;
+  left: 19px;
+  top: 78px;
+}
+.divider2 {
+  position: absolute;
+  width: 1322px;
+  height: 659.21px;
+  left: 50px;
+  top: 304px;
+}
+.divider3 {
+  position: relative;
+  width: 1440px;
+  top: 2200px;
+}
+h1 {
+  font-family: "AtlasTypewriterRegular";
+  position: relative;
+  height: 94px;
+  left: 323px;
+  top: 425px;
+  font-weight: bold;
+  font-size: 72px;
+  color: #FFFFFF;
+}
+.h1 {
+  font-family: "AtlasTypewriterRegular";
+  position: relative;
+  height: 72px;
+  left: 75px;
+  top: 1000px;
+  font-weight: bold;
+  font-size: 72px;
+  line-height: 72px;
+  letter-spacing: 0.405em;
+  color: #FFFFFF;
+}
+.h2 {
+  position: absolute;
+  height: 99px;
+  left: 75px;
+  top: 2109px;
+  font-weight: bold;
+  font-size: 72px;
+  line-height: 72px;
+  letter-spacing: 0.405em;
+  color: #FFFFFF;
+}
+.h3 {
+  position: absolute;
+  width: 421px;
+  height: 278px;
+  left: 70px;
+  top: 2430px;
+  font-size: 25px;
+  line-height: 25px;
+  letter-spacing: 0.02em;
+  color: #FFFFFF;
+}
+.h4 {
+  position: absolute;
+  left: 81px;
+  top: 3250px;
+  font-weight: bold;
+  font-size: 72px;
+  line-height: 72px;
+  letter-spacing: 0.405em;
+  color: #FFFFFF;
+}
+.h5 {
+  position: absolute;
+  width: 604px;
+  height: 218px;
+  left: 58px;
+  top: 4599px;
+  font-size: 25px;
+  line-height: 25px;
+  color: #FFFFFF;
+}
+.h6 {
+  position: absolute;
+  left: 41px;
+  top: 5457px;
+  font-size: 25px;
+  line-height: 25px;
+  color: #FFFFFF;
+}
+.h7 {
+  position: absolute;
+  left: 28px;
+  top: 6525px;
+  font-size: 24px;
+  line-height: 24px;
+  color: #FFFFFF;
+}
+.h8 {
+  position: absolute;
+  left: 673px;
+  top: 6525px;
+  font-size: 24px;
+  line-height: 24px;
+  color: #FFFFFF;
+}
+.h9 {
+  position: absolute;
+  left: 1288px;
+  top: 6525px;
+  font-size: 24px;
+  line-height: 24px;
+  color: #FFFFFF;
+}
+.h10 {
+  position: absolute;
+  left: 591px;
+  top: 3382px;
+  font-size: 24px;
+  line-height: 24px;
+  color: #FFFFFF;
+}
+.h11 {
+  position: absolute;
+  width: 328px;
+  height: 144px;
+  left: 508px;
+  top: 3405px;
+  font-size: 144px;
+  line-height: 144px;
+  letter-spacing: 0.995em;
+  color: #FFFFFF;
+}
+.block {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  left: 600px;
+  top: 1670px;
+  background: #FFFFFF;
+}
+.divider4 {
+  position: absolute;
+  width: 1440px;
+  height: 1181px;
+  top: 2730px;
+}
+.divider5 {
+  position: absolute;
+  width: 1440px;
+  height: 839px;
+  top: 3023px;
+}
+.divider6 {
+  position: absolute;
+  width: 638.79px;
+  height: 390.04px;
+  left: 121.96px;
+  top: 1500.66px;
+}
+.divider7 {
+  position: absolute;
+  width: 1403.14px;
+  height: 271.24px;
+  left: 41px;
+  top: 3769px;
+}
+.divider8 {
+  position: absolute;
+  width: 894.67px;
+  height: 2661px;
+  left: 37.46px;
+  top: 3565px;
+}
+.divider9 {
+  position: absolute;
+  width: 610px;
+  height: 1203px;
+  left: 839px;
+  top: 825px;
+}
+.divider10 {
+  position: absolute;
+  height: 914px;
+  left: 258px;
+  top: 4381.46px;
+}
+.divider11 {
+  position: absolute;
+  width: 158px;
+  height: 11px;
+  left: 591px;
+  top: 3460px;
+}
+.block1 {
+  position: absolute;
+  width: 1440px;
+  height: 7px;
+  top: 3210px;
+  background: #FFFFFF;
+}
