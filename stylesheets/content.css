@@ -55,14 +55,14 @@ h1 {
 }
 .h2 {
   position: relative;
-    height: 99px;
-    left: 75px;
-    top: 2000px;
-    font-weight: bold;
-    font-size: 72px;
-    line-height: 72px;
-    letter-spacing: 0.405em;
-    color: #FFFFFF;
+  height: 99px;
+  left: 75px;
+  top: 2000px;
+  font-weight: bold;
+  font-size: 72px;
+  line-height: 72px;
+  letter-spacing: 0.405em;
+  color: #FFFFFF;
 }
 .h3 {
   position: relative;
@@ -96,33 +96,33 @@ h1 {
   color: #FFFFFF;
 }
 .h6 {
-  position: absolute;
+  position: relative;
   left: 41px;
-  top: 5457px;
+  top: 2390px;
   font-size: 25px;
   line-height: 25px;
   color: #FFFFFF;
 }
 .h7 {
-  position: absolute;
+  position: relative;
   left: 28px;
-  top: 6525px;
+  top: 3530px;
   font-size: 24px;
   line-height: 24px;
   color: #FFFFFF;
 }
 .h8 {
-  position: absolute;
+  position: relative;
   left: 673px;
-  top: 6525px;
+  top: 3505px;
   font-size: 24px;
   line-height: 24px;
   color: #FFFFFF;
 }
 .h9 {
-  position: absolute;
+  position: relative;
   left: 1288px;
-  top: 6525px;
+  top: 3480px;
   font-size: 24px;
   line-height: 24px;
   color: #FFFFFF;
@@ -196,7 +196,7 @@ h1 {
   width: 1403.14px;
   height: 271.24px;
   left: 20px;
-  top: 3800px;
+  top: 3840px;
 }
 .divider8 {
   position: absolute;
