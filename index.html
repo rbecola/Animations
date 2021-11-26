@@ -74,6 +74,14 @@ div {
   75% {left: 300px; opacity: 0;}
   100% {background-color: pink; left: 0;}
 }
+.example6 {
+  animation: example6 2s cubic-bezier(.80,.15,.35,.80) 0s 10;
+}
+@keyframes example6 {
+  0% {left: 0;}
+  50% {height: 20px;}
+  75% {left: 1000px;}
+}
 
 </style>
 </head>
@@ -83,8 +91,8 @@ div {
   <div class = "example3"></div>
   <div class = "example4"></div>
   <div class = "example5"></div>
-  <!-- <div class = "example6"></div>
-  <div class = "example7"></div>
+  <div class = "example6"></div>
+  <!-- <div class = "example7"></div>
   <div class = "example8"></div>
   <div class = "example9"></div>
   <div class = "example10"></div> -->
