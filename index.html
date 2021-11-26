@@ -6,11 +6,16 @@
   background-color: blue;
   animation-name: example1;
   animation-duration: 2s;
+  animation: example1 4s 0s 6;
   margin: 20px;
 }
 @keyframes example1 {
   from {background-color: blue;}
   to {background-color: pink; border-radius: 50%;}
+  0% {border-radius: 50%;}
+  25% {border-radius: 0;}
+  50% {border-radius: 0; width: 150px;}
+  75% {border-radius: 0;}
 }
 div {
   width: 100px;
